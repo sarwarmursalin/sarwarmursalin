@@ -48,7 +48,6 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/sarwarmursalin?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sarwarmursalin/cf-stats/main/output/light_card.svg" />
 </p>
 
 
@@ -58,10 +57,6 @@
 <a href="https://www.linkedin.com/in/sudiptob2/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-
-<a href="mailto:sarwarmursalin1015@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
 </p>
 
 <!---
