@@ -31,7 +31,7 @@
 - 🌱 Learning all about **AI/ML, REST frameworks and NLP**
 - 💬 Ping me about **Django**, **Python**, **RestAPIs**, **Language Processing**
 - 📫 Reach me: [linkedin.com/in/golam-sarwar-md-mursalin](https://www.linkedin.com/in/golam-sarwar-md-mursalin/)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](files/GolamSarwarMdMursalin_CUET_CV.pdf).
 
 #### My Current Stack
 
