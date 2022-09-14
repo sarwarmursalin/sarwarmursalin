@@ -3,10 +3,10 @@
 
 <p align="left">
   <a href="https://leetcode.com/sarwarmursalin/">
-    <img src="https://cp-logo.vercel.app/leetcode/sarwarmursalin" alt="Leet code rating" />
+    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/sarwarmursalin1604014">
-    <img src="https://raw.githubusercontent.com/sarwarmursalin1604014/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+    <a href="https://codeforces.com/profile/sarwarmursalin1604014">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://github.com/sudiptob2?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
