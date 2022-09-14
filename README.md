@@ -19,17 +19,17 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to python based open source projects 
+- ✨ Contributing to [jobdesk®](https://www.jobdesk.com/);
+- :fire: Interested in ML/AI, NLP and Data Engineering;
+- :calendar: Looking for contributing to python based open source ML projects 
 
 #### Bio
 
-- 🏢 I'm currently working at **jobdesk Ltd.**
-- ⚙️ I use daily: `Python`, `NLP tools`, `Postman`
+- 🏢 I'm currently working at **jobdesk® Ltd**
+- ⚙️ I use daily: `Python`, `NLP tools`, `Postman`, `Jupyter Notebook`
 - 🌍 I'm mostly active within the **Bengali AI Community**
-- 🌱 Learning all about **AI/ML and NLP**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Language Processing**
+- 🌱 Learning all about **AI/ML, REST frameworks and NLP**
+- 💬 Ping me about **Django**, **Python**, **RestAPIs**, **Language Processing**
 - 📫 Reach me: [linkedin.com/in/golam-sarwar-md-mursalin](https://www.linkedin.com/in/golam-sarwar-md-mursalin/)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
