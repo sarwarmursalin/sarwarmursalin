@@ -3,13 +3,13 @@
 
 <p align="left">
   <a href="https://leetcode.com/sarwarmursalin/">
-    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+    <img src="https://cp-logo.vercel.app/leetcode/sarwarmursalin/" alt="Leet code rating" />
   </a>
     <a href="https://codeforces.com/profile/sarwarmursalin1604014">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="CF rating" />
   </a>
   <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sarwarmursalin?color=green&logo=github">
   </a>
   <a href="https://github.com/sarwarmursalin/">
     <img src="https://komarev.com/ghpvc/?username=sarwarmursalin" alt="visitors" />
@@ -41,8 +41,8 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarwarmursalin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwarmursalin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <b>&#128200; Competitive Programming</b>
