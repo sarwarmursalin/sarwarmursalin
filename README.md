@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm a Computer Engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a Machine Learning Engineer working in Dhaka, Bangladesh
 
 <p align="left">
   <a href="https://leetcode.com/sarwarmursalin/">
