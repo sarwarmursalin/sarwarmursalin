@@ -19,17 +19,17 @@
 
 #### Now
 
-- ✨ Contributing to [jobdesk®](https://www.jobdesk.com/);
-- :fire: Interested in ML/AI, NLP and Data Engineering;
+- ✨ Contributing to [Spectrum Software and Consultancy Ltd](https://www.spectrum-bd.com/);
+- :fire: Interested in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Image Processing,Human Computer Interaction and Data Engineering;
 - :calendar: Looking for contributing to python based open source ML projects 
 
 #### Bio
 
-- 🏢 I'm currently working at **jobdesk® Ltd**
-- ⚙️ I use daily: `Python`, `NLP tools`, `Postman`, `Jupyter Notebook`
+- 🏢 I'm currently working at **Spectrum Software and Consultancy Ltd**
+- ⚙️ I use daily: `Python`, `NLP tools`, `Google Colab`, `Jupyter Notebook`, `Anaconda`,`VS Code`
 - 🌍 I'm mostly active within the **Bengali AI Community**
 - 🌱 Learning all about **AI/ML, REST frameworks and NLP**
-- 💬 Ping me about **Django**, **Python**, **RestAPIs**, **Language Processing**
+- 💬 Ping me about **Django**, **Python**, **RestAPIs**, **NLP**,**LLM**,**GPT Models**
 - 📫 Reach me: [linkedin.com/in/golam-sarwar-md-mursalin](https://www.linkedin.com/in/golam-sarwar-md-mursalin/)
 - 📝 Checkout my [Resume](files/GolamSarwarMdMursalin_CUET_CV.pdf).
 
