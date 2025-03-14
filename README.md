@@ -20,7 +20,7 @@
 #### Now
 
 - ✨ Contributing as a Co-investigator & Research Director at [Khan Computational Research Lab](https://kcr-lab.github.io/about/);
-- ✨Worked on Fintech Document AI projects (GreenLC project at Spectrum Software and Consultancy Ltd (SSCL) as the requirment of Prime Bank), computer vision-based Intelligent Transportation Systems [Spectrum Software and Consultancy Ltd](https://www.sscl.tech/);
+- ✨Worked on Fintech Document AI projects (Green LC project at Spectrum Software and Consultancy Ltd (SSCL) as the requirment of Prime Bank), computer vision-based Intelligent Toll Plaza System during my tenure at [Spectrum Software and Consultancy Ltd](https://www.sscl.tech/);
 - :fire: Interested in NLP (Low-resource Language Sentiment Analysis, Fake News Detection), LLMs, Computer Vision-based Document AI, Explainable AI and Multimodal Research;
 - :calendar: Looking for contributing to python based open source ML projects 
 
