@@ -19,17 +19,19 @@
 
 #### Now
 
-- ✨ Contributing to [Spectrum Software and Consultancy Ltd](https://www.spectrum-bd.com/);
-- :fire: Interested in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Image Processing,Human Computer Interaction and Data Engineering;
+- ✨ Contributing to Khan Computational Research Lab (KCR Lab)
+- Worked on Fintech Document AI projects (GreenLC project at Spectrum Software and Consultancy Ltd (SSCL) as the requirment of Prime Bank), computer vision-based Intelligent Transportation Systems [Spectrum Software and Consultancy Ltd](https://www.sscl.tech/);
+- :fire: Interested in NLP (Low-resource Language Sentiment Analysis, Fake News Detection), LLMs, Computer Vision-based Document AI, Explainable AI and Multimodal Research;
 - :calendar: Looking for contributing to python based open source ML projects 
 
 #### Bio
 
-- 🏢 I'm currently working at **Spectrum Software and Consultancy Ltd**
-- ⚙️ I use daily: `Python`, `NLP tools`, `Google Colab`, `Jupyter Notebook`, `Anaconda`,`VS Code`
+- 🏢 I am pursuing MASc in Computer Engineering at Memorial University of Newfoundland, NL, Canada
+- 🏢 I worked as a ML Engineer at **Spectrum Software and Consultancy Ltd**
+- ⚙️ I use daily: `Python`, `DockerHub`,`Postman`, `NLP tools`, `Google Colab`, `Jupyter Notebook`, `Anaconda`,`VS Code`
 - 🌍 I'm mostly active within the **Bengali AI Community**
 - 🌱 Learning all about **AI/ML, REST frameworks and NLP**
-- 💬 Ping me about **Django**, **Python**, **RestAPIs**, **NLP**,**LLM**,**GPT Models**
+- 💬 Ping me about **Flask**, **Docker**, **VM**, **ML Model Deployment**, **Django**, **Python**, **RestAPIs**, **NLP**,**LLM**,**GPT Models**
 - 📫 Reach me: [linkedin.com/in/golam-sarwar-md-mursalin](https://www.linkedin.com/in/golam-sarwar-md-mursalin/)
 - 📝 Checkout my [Resume](files/GolamSarwarMdMursalin_CUET_CV.pdf).
 
