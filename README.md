@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm a Computer Science Enthusiat with hands-on ML enginering expertise based on St. John's, NL, Canada.
+## Hi 👋, I'm a Computer Science Enthusiat with hands-on AI/ML Engineering expertise based on St. John's, NL, Canada.
 
 <p align="left">
   <a href="https://leetcode.com/sarwarmursalin/">
