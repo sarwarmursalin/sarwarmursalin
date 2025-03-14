@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm a Machine Learning Engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a Computer Science & Engineering Enthusiat pursuing Masters of Applied Science in MUN, Canada
 
 <p align="left">
   <a href="https://leetcode.com/sarwarmursalin/">
