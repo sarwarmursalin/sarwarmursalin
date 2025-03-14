@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm a Computer Science & Engineering Enthusiat pursuing Masters of Applied Science in MUN, Canada
+## Hi 👋, I'm a Computer Science Enthusiat with hands-on ML enginering expertise based on St. John's, NL, Canada.
 
 <p align="left">
   <a href="https://leetcode.com/sarwarmursalin/">
@@ -19,8 +19,8 @@
 
 #### Now
 
-- ✨ Contributing to Khan Computational Research Lab (KCR Lab)
-- Worked on Fintech Document AI projects (GreenLC project at Spectrum Software and Consultancy Ltd (SSCL) as the requirment of Prime Bank), computer vision-based Intelligent Transportation Systems [Spectrum Software and Consultancy Ltd](https://www.sscl.tech/);
+- ✨ Contributing to Khan Computational Research Lab [KCR Lab] (https://kcr-lab.github.io/about/);
+- ✨Worked on Fintech Document AI projects (GreenLC project at Spectrum Software and Consultancy Ltd (SSCL) as the requirment of Prime Bank), computer vision-based Intelligent Transportation Systems [Spectrum Software and Consultancy Ltd](https://www.sscl.tech/);
 - :fire: Interested in NLP (Low-resource Language Sentiment Analysis, Fake News Detection), LLMs, Computer Vision-based Document AI, Explainable AI and Multimodal Research;
 - :calendar: Looking for contributing to python based open source ML projects 
 
