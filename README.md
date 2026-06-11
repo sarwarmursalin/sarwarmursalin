@@ -1,5 +1,5 @@
 ## Hi, I'm Golam Sarwar Md Mursalin
-### Backend & MLOps Engineer | AI/ML Researcher | MASc Graduate, Memorial University of Newfoundland
+### AI Engineer | Backend & MLOps Enthusiast | MASc in Computer Enginerring Graduate, Memorial University of Newfoundland
 
 <p align="left">
   <a href="https://github.com/sarwarmursalin?tab=followers">
