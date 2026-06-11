@@ -1,68 +1,64 @@
-
-## Hi 👋, I'm a Computer Science Enthusiat with hands-on AI/ML Engineering expertise based on St. John's, NL, Canada.
+## Hi 👋, I'm Golam Sarwar Md Mursalin
+### Backend & MLOps Engineer | AI/ML Researcher | MASc Graduate, Memorial University of Newfoundland
 
 <p align="left">
-  <a href="https://leetcode.com/sarwarmursalin/">
-    <img src="https://cp-logo.vercel.app/leetcode/sarwarmursalin/" alt="Leet code rating" />
-  </a>
-<!--   <a href="https://codeforces.com/profile/sarwarmursalin1604014">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="CF rating" />
-  </a> -->
-  <a href="https://github.com/sudiptob2?tab=followers">
+  <a href="https://github.com/sarwarmursalin?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sarwarmursalin?color=green&logo=github">
   </a>
   <a href="https://github.com/sarwarmursalin/">
     <img src="https://komarev.com/ghpvc/?username=sarwarmursalin" alt="visitors" />
   </a>
-    
 </p>
 
 #### Now
 
-- ✨ Contributing as a Co-investigator & Research Director at [Khan Computational Research Lab](https://kcr-lab.github.io/about/);
-- ✨Worked on Fintech Document AI projects (Green LC project at Spectrum Software and Consultancy Ltd (SSCL) as the requirment of Prime Bank), computer vision-based Intelligent Toll Plaza System during my tenure at [Spectrum Software and Consultancy Ltd](https://www.sscl.tech/);
-- :fire: Interested in NLP (Low-resource Language Sentiment Analysis, Fake News Detection), LLMs, Computer Vision-based Document AI, Explainable AI and Multimodal Research;
-- :calendar: Looking for contributing to python based open source ML projects 
+- 🎓 MASc in Computer Engineering, Memorial University of Newfoundland (Aug 2026)
+
+- 🏦 **MITACS AI Research Intern (Phase I & II) — Nasdaq Verafin** *(May 2025 – Jun 2026)*  
+  Built a cost-aware OCR routing system deployed on AWS SageMaker (S3, Notebooks & Jobs) for financial cheque processing. Engineered a 17-feature image quality assessment framework (Spearman-validated) to automate engine selection between Tesseract and AWS Textract — routing 40.1% of cheques to open-source, reducing premium OCR spend by 39.2% under sub-100ms latency.
+
+- 🏥 **Data Center Intern — CAIR, Memorial University** *(Oct 2025 – Feb 2026)*  
+  Deployed a full-stack Django platform with REST APIs, RAG (pgvector), async pipelines via Celery/Redis, and Podman containerization for enterprise medical residency training. Built a 4-agent AI evaluation system assessing clinical performance against EPA criteria with confidence-scored feedback.
+
+- 💼 **Software Engineer (ML) — Spectrum Software & Consulting Ltd** *(Jan 2023 – Aug 2024)*  
+  Built ETL pipelines using deep learning for table extraction, layout analysis, and NER on enterprise documents. Integrated LLMs and transformer models (DONUT, Sentence Transformers) for prompt-based QA, reducing document processing time by 40%.
+
+- 🔬 **Co-investigator — Khan Computational Research Lab**  
+  7 peer-reviewed publications in NLP and Document AI (ACL, IEEE ICCIT). Research spans low-resource sentiment analysis, fake news detection, and subjectivity detection.
 
 #### Bio
 
-- 🏢 I am pursuing MASc in Computer Engineering at Memorial University of Newfoundland, NL, Canada
-- 🏢 I worked as a ML Engineer at **Spectrum Software and Consultancy Ltd**
-- ⚙️ I use daily: `Python`, `DockerHub`,`Postman`, `NLP tools`, `Google Colab`, `Jupyter Notebook`, `Anaconda`,`VS Code`
-- 🌍 I'm mostly active within the **Bengali AI Community**
-- 🌱 Learning all about **AI/ML, REST frameworks and NLP**
-- 💬 Ping me about **Flask**, **Docker**, **VM**, **ML Model Deployment**, **Django**, **Python**, **RestAPIs**, **NLP**,**LLM**,**GPT Models**
+- ⚙️ Daily stack: `Python`, `Java`, `AWS`, `Docker`, `Django`, `Spring Boot`, `PostgreSQL`, `Git`
+- 🔍 Focused on: **Backend Engineering**, **MLOps**, **LLMs**, **Document AI**, **RAG**
+- 💬 Ask me about: **REST APIs**, **AWS SageMaker**, **Django**, **Microservices**, **OCR pipelines**, **NLP**
 - 📫 Reach me: [linkedin.com/in/golam-sarwar-md-mursalin](https://www.linkedin.com/in/golam-sarwar-md-mursalin/)
-- 📝 Checkout my [Resume](files/GolamSarwarMdMursalin_CUET_CV.pdf).
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django">   <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> 
+<img height="48" src="img/python-original.svg" alt="python">
+<img height="48" src="img/django-plain-wordmark.svg" alt="Django">
+<img height="48" src="img/linux-original.svg" alt="linux">
+<img height="48" src="img/docker-original.svg" alt="Docker">
+<img height="48" src="img/postgresql-original.svg" alt="PostgreSQL">
+<img height="48" src="img/git-original.svg" alt="git">
 
-#### Development Stuffs:
+#### Development Stuffs
 
-<b>⚡ Github Stats</b>
+<b>⚡ GitHub Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarwarmursalin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarwarmursalin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwarmursalin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sarwarmursalin?theme=light&font=Karma&ext=contest" />
-</p>
-
 
 #### Connect With Me
 
 <p left="center">
-<a href="https://www.linkedin.com/in/sudiptob2/">
+<a href="https://www.linkedin.com/in/golam-sarwar-md-mursalin/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
+</a>
 </p>
 
 <!---
 sarwarmursalin/sarwarmursalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
