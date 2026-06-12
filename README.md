@@ -28,6 +28,7 @@
 
 #### Bio
 
+- 💡 4+ years of industry experience in AI Engineering, Backend Development, and MLOps
 - ⚙️ Daily stack: `Python`, `Java`, `AWS`, `Docker`, `Django`, `Spring Boot`, `PostgreSQL`, `Git`
 - 🔍 Focused on: **Backend Engineering**, **MLOps**, **LLMs**, **Document AI**, **RAG**
 - 💬 Ask me about: **REST APIs**, **AWS SageMaker**, **Django**, **Microservices**, **OCR pipelines**, **NLP**
