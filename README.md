@@ -12,7 +12,7 @@
 
 #### Now
 
-- 🎓 MASc in Computer Engineering, Memorial University of Newfoundland (Aug 2026)
+- 🎓 MASc in Computer Engineering, Memorial University of Newfoundland (Sep 2024 - Aug 2026)
 
 - 🏦 **MITACS AI Research Intern (Phase I & II) — Nasdaq Verafin** *(May 2025 – Jun 2026)*  
   Built a cost-aware OCR routing system deployed on AWS SageMaker (S3, Notebooks & Jobs) for financial cheque processing. Engineered a 17-feature image quality assessment framework (Spearman-validated) to automate engine selection between Tesseract and AWS Textract — routing 40.1% of cheques to open-source, reducing premium OCR spend by 39.2% under sub-100ms latency.
