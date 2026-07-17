@@ -1,5 +1,5 @@
 ## Hi, I'm Golam Sarwar Md Mursalin
-### AI Engineer | Backend & MLOps Enthusiast | MASc in Computer Enginerring Graduate, Memorial University of Newfoundland
+### Software Engineer | AI/ML Engineer | MASc in Computer Engineering Graduate, Memorial University of Newfoundland
 
 <p align="left">
   <a href="https://github.com/sarwarmursalin?tab=followers">
@@ -28,16 +28,20 @@
 
 #### Bio
 
-- 💡 4+ years of industry experience in AI Engineering, Backend Development, and MLOps
-- ⚙️ Daily stack: `Python`, `Java`, `AWS`, `Docker`, `Django`, `Spring Boot`, `PostgreSQL`, `Git`
-- 🔍 Focused on: **Backend Engineering**, **MLOps**, **LLMs**, **Document AI**, **RAG**
-- 💬 Ask me about: **REST APIs**, **AWS SageMaker**, **Django**, **Microservices**, **OCR pipelines**, **NLP**
+- 💡 4+ years of industry experience in Software Engineering, AI/ML, and MLOps
+- ⚙️ Daily stack: `Python`, `Java`, `AWS`, `Docker`, `Django`, `Spring Boot`, `PostgreSQL`, `Apache Spark`, `Git`
+- 🔍 Focused on: **Backend Engineering**, **Distributed Data Systems**, **MLOps**, **LLMs**, **Document AI**
+- 💬 Ask me about: **REST APIs**, **AWS (VPC/ALB/ASG/RDS)**, **Spring Boot**, **Apache Spark/Iceberg**, **Django**, **OCR pipelines**
 - 📫 Reach me: [linkedin.com/in/golam-sarwar-md-mursalin](https://www.linkedin.com/in/golam-sarwar-md-mursalin/)
 
 #### My Current Stack
 
 <img height="48" src="img/python-original.svg" alt="python">
+<img height="48" src="img/java-original.svg" alt="Java">
+<img height="48" src="img/spring-original.svg" alt="Spring">
 <img height="48" src="img/django-plain-wordmark.svg" alt="Django">
+<img height="48" src="img/amazonwebservices-original-wordmark.svg" alt="AWS">
+<img height="48" src="img/apachespark-original.svg" alt="Apache Spark">
 <img height="48" src="img/linux-original.svg" alt="linux">
 <img height="48" src="img/docker-original.svg" alt="Docker">
 <img height="48" src="img/postgresql-original.svg" alt="PostgreSQL">
